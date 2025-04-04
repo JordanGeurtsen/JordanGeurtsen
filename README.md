@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jordan, a 4th-year student in HBO-ICT at the HAN University of Applied Sciences.
+Check out more information about me on [my site](https://jordangeurtsen.nl)!
 <!--
 **JordanGeurtsen/JordanGeurtsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
