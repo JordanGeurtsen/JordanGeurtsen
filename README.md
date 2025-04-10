@@ -3,6 +3,9 @@
 I'm Jordan, a 4th-year student in HBO-ICT at the HAN University of Applied Sciences.
 
 Check out more information about me on [my site](https://jordangeurtsen.nl)!
+
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jordangeurtsen)
+
 <!--
 **JordanGeurtsen/JordanGeurtsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
